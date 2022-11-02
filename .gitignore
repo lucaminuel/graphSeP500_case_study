@@ -130,5 +130,7 @@ dmypy.json
 # ignore file
 data_collection/data
 data_collection/graph
+paper/
+
 
 

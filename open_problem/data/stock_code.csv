@@ -1,0 +1,195 @@
+Symbol,Ssector abbv,Sector
+CMCSA,CD,Consumer Discretionary
+DIS,CD,Consumer Discretionary
+F,CD,Consumer Discretionary
+GPC,CD,Consumer Discretionary
+GPS,CD,Consumer Discretionary
+GT,CD,Consumer Discretionary
+HAS,CD,Consumer Discretionary
+HD,CD,Consumer Discretionary
+HRB,CD,Consumer Discretionary
+IPG,CD,Consumer Discretionary
+JCP,CD,Consumer Discretionary
+JWN,CD,Consumer Discretionary
+LEG,CD,Consumer Discretionary
+LEN,CD,Consumer Discretionary
+LOW,CD,Consumer Discretionary
+MAT,CD,Consumer Discretionary
+MCD,CD,Consumer Discretionary
+NKE,CD,Consumer Discretionary
+SHW,CD,Consumer Discretionary
+TGT,CD,Consumer Discretionary
+VFC,CD,Consumer Discretionary
+WHR,CD,Consumer Discretionary
+ADM,CS,Consumer Staples
+AVP,CS,Consumer Staples
+CAG,CS,Consumer Staples
+CL,CS,Consumer Staples
+CPB,CS,Consumer Staples
+CVS,CS,Consumer Staples
+GIS,CS,Consumer Staples
+HRL,CS,Consumer Staples
+HSY,CS,Consumer Staples
+K,CS,Consumer Staples
+KMB,CS,Consumer Staples
+KO,CS,Consumer Staples
+KR,CS,Consumer Staples
+MKC,CS,Consumer Staples
+MO,CS,Consumer Staples
+SYY,CS,Consumer Staples
+TAP,CS,Consumer Staples
+TSN,CS,Consumer Staples
+WMT,CS,Consumer Staples
+APA,EG,Energy
+COP,EG,Energy
+CVX,EG,Energy
+ESV,EG,Energy
+HAL,EG,Energy
+HES,EG,Energy
+HP,EG,Energy
+MRO,EG,Energy
+MUR,EG,Energy
+NBL,EG,Energy
+NBR,EG,Energy
+SLB,EG,Energy
+TSO,EG,Energy
+VLO,EG,Energy
+WMB,EG,Energy
+XOM,EG,Energy
+AFL,FN,Financials
+AIG,FN,Financials
+AON,FN,Financials
+AXP,FN,Financials
+BAC,FN,Financials
+BBT,FN,Financials
+BEN,FN,Financials
+BK,FN,Financials
+C,FN,Financials
+CB,FN,Financials
+CINF,FN,Financials
+CMA,FN,Financials
+EFX,FN,Financials
+FHN,FN,Financials
+HBAN,FN,Financials
+HCN,FN,Financials
+HST,FN,Financials
+JPM,FN,Financials
+L,FN,Financials
+LM,FN,Financials
+LNC,FN,Financials
+LUK,FN,Financials
+MMC,FN,Financials
+MTB,FN,Financials
+PSA,FN,Financials
+SLM,FN,Financials
+TMK,FN,Financials
+TRV,FN,Financials
+USB,FN,Financials
+VNO,FN,Financials
+WFC,FN,Financials
+WY,FN,Financials
+ZION,FN,Financials
+ABT,HC,Health Care
+AET,HC,Health Care
+AMGN,HC,Health Care
+BAX,HC,Health Care
+BCR,HC,Health Care
+BDX,HC,Health Care
+BMY,HC,Health Care
+CAH,HC,Health Care
+CI,HC,Health Care
+HUM,HC,Health Care
+JNJ,HC,Health Care
+LLY,HC,Health Care
+MDT,HC,Health Care
+MRK,HC,Health Care
+MYL,HC,Health Care
+SYK,HC,Health Care
+THC,HC,Health Care
+TMO,HC,Health Care
+UNH,HC,Health Care
+VAR,HC,Health Care
+AVY,ID,Industrials
+BA,ID,Industrials
+CAT,ID,Industrials
+CMI,ID,Industrials
+CSX,ID,Industrials
+CTAS,ID,Industrials
+DE,ID,Industrials
+DHR,ID,Industrials
+DNB,ID,Industrials
+DOV,ID,Industrials
+EMR,ID,Industrials
+ETN,ID,Industrials
+EXPD,ID,Industrials
+FDX,ID,Industrials
+FLS,ID,Industrials
+GD,ID,Industrials
+GE,ID,Industrials
+GLW,ID,Industrials
+GWW,ID,Industrials
+HON,ID,Industrials
+IR,ID,Industrials
+ITW,ID,Industrials
+JEC,ID,Industrials
+LMT,ID,Industrials
+LUV,ID,Industrials
+MAS,ID,Industrials
+MMM,ID,Industrials
+ROK,ID,Industrials
+RTN,ID,Industrials
+TXT,ID,Industrials
+UNP,ID,Industrials
+UTX,ID,Industrials
+AAPL,IT,Information Technology
+ADI,IT,Information Technology
+ADP,IT,Information Technology
+AMAT,IT,Information Technology
+AMD,IT,Information Technology
+CA,IT,Information Technology
+HPQ,IT,Information Technology
+HRS,IT,Information Technology
+IBM,IT,Information Technology
+INTC,IT,Information Technology
+KLAC,IT,Information Technology
+LRCX,IT,Information Technology
+MSI,IT,Information Technology
+MU,IT,Information Technology
+TSS,IT,Information Technology
+TXN,IT,Information Technology
+WDC,IT,Information Technology
+XRX,IT,Information Technology
+AA,MT,Materials
+APD,MT,Materials
+BLL,MT,Materials
+BMS,MT,Materials
+CLF,MT,Materials
+DD,MT,Materials
+ECL,MT,Materials
+FMC,MT,Materials
+IFF,MT,Materials
+IP,MT,Materials
+NEM,MT,Materials
+PPG,MT,Materials
+VMC,MT,Materials
+CTL,TC,Telecommunication Services
+FTR,TC,Telecommunication Services
+S,TC,Telecommunication Services
+T,TC,Telecommunication Services
+VZ,TC,Telecommunication Services
+AEP,UT,Utilities
+CMS,UT,Utilities
+CNP,UT,Utilities
+D,UT,Utilities
+DTE,UT,Utilities
+ED,UT,Utilities
+EIX,UT,Utilities
+EQT,UT,Utilities
+ETR,UT,Utilities
+EXC,UT,Utilities
+NEE,UT,Utilities
+NI,UT,Utilities
+PNW,UT,Utilities
+SO,UT,Utilities
+WEC,UT,Utilities
+XEL,UT,Utilities
